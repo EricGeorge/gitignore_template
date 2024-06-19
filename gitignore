@@ -54,3 +54,6 @@ JuceLibraryCode/
 
 # Jupiter Notebooks
 .ipynb_checkpoints
+
+# Dependency directories
+node_modules/
